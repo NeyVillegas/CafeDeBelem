@@ -1,0 +1,17 @@
+@media (min-width: 1200px) {
+  .nosotros p{
+      font-size: 2rem;
+  }
+  .nosotros h1{
+      font-size: 3rem;
+  }
+  .form p{
+    font-size: 3rem;
+  }
+  input{
+    font-size: 1.6rem;
+  }
+  .form a{
+    font-size: 1.6rem;
+  }
+}

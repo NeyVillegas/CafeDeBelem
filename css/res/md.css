@@ -1,0 +1,30 @@
+@media screen and (min-width: 576px) {
+    .form{
+        background-color: transparent;
+    }
+    .cafe-fondo{
+        display: none;
+    }
+    .cafe-fondo2{
+        display: none;
+    }
+    .contenedor{
+        background-color: transparent;
+    }
+    .nosotros{
+        background-image: url("../../images/princi.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .nosotros h1 {
+        font-size: 3rem;
+        color: #ffffff;
+        margin-bottom: 30px;
+    }
+    .nosotros p{
+        color: #f5eeee;
+        background-color: #1c2826c7;
+        border-radius: 10px;
+        font-size: 1.6rem;
+    }
+  }
